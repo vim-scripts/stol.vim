@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=652
+
+Syntax for STOL (Satellite Test and Operations Language).
+
+This currently contains only the base STOL language; i.e., there is no highlighting of EPOCH or other STOL extensions.
+
